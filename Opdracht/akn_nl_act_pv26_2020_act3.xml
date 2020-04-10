@@ -182,6 +182,7 @@
                   <Kop>
                      <Label>Artikel</Label>
                      <Nummer>I</Nummer>
+                     <Opschrift>Omgevingsverordening Utrecht</Opschrift>
                   </Kop>
                   <Wat>Omgevingsverordening Utrecht wordt vastgesteld zoals die in <IntRef doel="cmp_A">Bijlage A</IntRef> wordt gegeven</Wat>
                </WijzigArtikel>
@@ -189,6 +190,7 @@
                   <Kop>
                      <Label>Artikel</Label>
                      <Nummer>II</Nummer>
+                     <Opschrift>Inwerkingtreding</Opschrift>
                   </Kop>
                   <Inhoud>
                      <Al>Dit besluit treedt in werking per 01 september 2021</Al>
@@ -221,7 +223,7 @@
                         <Kop>
                            <Label>Hoofdstuk</Label>
                            <Nummer>1</Nummer>
-                           <Opschrift>Inleidende regels</Opschrift>
+                           <Opschrift>Algemene bepalingen</Opschrift>
                         </Kop>
                         <Artikel eId="chp_1__art_1.1" wId="pv26_311__chp_1__art_1.1">
                            <Kop>
@@ -409,28 +411,28 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Voor de Slaperdijk geldt als omgevingswaarde het profiel van die waterkering op 1 september 2008. </Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Het beheer van de Slaperdijk omvat tevens het afsluitbaar maken van de doorgangen in de Slaperdijk, waaronder die in het Valleikanaal ter hoogte van de Rode Haan.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_3"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>De omgevingswaarde is een resultaatsverplichting.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_4"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_4">
-                                    <LidNummer>4</LidNummer>
+                                    <LidNummer>4.</LidNummer>
                                     <Inhoud>
                                        <Al>Aan de omgevingswaarde wordt voldaan met ingang van januari 2032.</Al>
                                     </Inhoud>
@@ -445,21 +447,21 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Voor de Werkensedijk/Schans geldt als omgevingswaarde het handhaven van de huidige situatie.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De omgevingswaarde is een resultaatsverplichting.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__para_3"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>Aan de omgevingswaarde wordt voldaan met ingang van januari 2032.</Al>
                                     </Inhoud>
@@ -474,21 +476,21 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Voor de Schenkeldijk/Krouwerskade geldt als omgevingswaarde het handhaven van de huidige situatie.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De omgevingswaarde is een resultaatsverplichting.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_3"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>Aan de omgevingswaarde wordt voldaan met ingang van januari 2032.</Al>
                                     </Inhoud>
@@ -545,7 +547,7 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.6__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.6__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Een omgevingsplan staat parkeren in<IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.6__para_1__ref_o_1"
                                                     wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.6__para_1__ref_o_1"
@@ -554,7 +556,7 @@
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.6__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.6__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De gemeente betrekt de provincie bij het opstellen van deze regels. </Al>
                                     </Inhoud>
@@ -582,7 +584,7 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1__list_o_1"
                                               wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1__list_o_1"
@@ -603,14 +605,14 @@
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De opgave wordt uiterlijk op 31 mei van elk jaar of, bij beëindiging van de onttrekking, binnen vier maanden na die beëindiging verstrekt.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_3"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>Gedeputeerde staten kunnen, na overleg met het dagelijks bestuur, nadere regels stellen aangaande de wijze waarop de gegevens, bedoeld in het eerste lid, worden aangeleverd.</Al>
                                     </Inhoud>
@@ -636,35 +638,35 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>De waterschapsverordening bevat een vergunningplicht voor onttrekkingen van grondwater voor menselijke consumptie.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Aan de vergunning verbindt het dagelijks bestuur, voor zover dagelijks meer dan 10 m³ water wordt onttrokken of water wordt onttrokken ten behoeve van meer dan 50 personen, voorschriften over de monitoringsverplichtingen die voortvloeien uit de kaderrichtlijn water.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_3"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>Van de in het eerste lid genoemde vergunningplicht worden uitgezonderd de onttrekkingen die onmiddellijk voor de datum van inwerkingtreding van deze verordening overeenkomstig artikel 6.11 van het Waterbesluit, zoals dat luidde direct voor inwerkingtreding van de Omgevingswet, zijn gemeld aan het dagelijks bestuur en in werking zijn.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_4"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_4">
-                                    <LidNummer>4</LidNummer>
+                                    <LidNummer>4.</LidNummer>
                                     <Inhoud>
                                        <Al>Het dagelijks bestuur verstrekt aan gedeputeerde staten de gegevens die op grond van het tweede lid worden verkregen, uiterlijk binnen vier maanden nadat de gegevens zijn verkregen.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_5"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_5">
-                                    <LidNummer>5</LidNummer>
+                                    <LidNummer>5.</LidNummer>
                                     <Inhoud>
                                        <Al>Gedeputeerde staten kunnen, na overleg met het dagelijks bestuur, nadere regels stellen aangaande de wijze en de parameters waarop en de frequentie waarmee op grond van het tweede lid gemonitord wordt.</Al>
                                     </Inhoud>
@@ -687,14 +689,14 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.11__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.11__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Een ieder is verplicht verontreiniging van het grondwater in een waterwingebied, grondwaterbeschermingsgebied, boringsvrije zone, 100-jaaraandachtsgebied en strategische grondwatervoorraad te voorkomen of, voor zover verontreiniging niet kan worden voorkomen, deze zoveel mogelijk te beperken of ongedaan te maken.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.11__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.11__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Degene die grondwater verontreinigt of dreigt te verontreinigen, dan wel degene onder wiens verantwoordelijkheid dit gebeurt, informeert terstond gedeputeerde staten en de directeur van het betrokken drinkwaterbedrijf. Daarbij wordt aangegeven welke maatregelen zijn of worden genomen ter voorkoming, beperking of het ongedaan maken van de verontreiniging.</Al>
                                     </Inhoud>
@@ -709,14 +711,14 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.12__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.12__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Bij buitengebruikstelling van een boorgat in een waterwingebied of grondwaterbeschermingsgebied laat de eigenaar of exploitant binnen twee weken daarna die boorput afdichten door een gecertificeerd en erkend bedrijf conform BRL SIKB 2100/2101.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.12__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.12__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Degene die het voornemen heeft tot afdichten als bedoeld in het vorige lid, meldt dit aan gedeputeerde staten. </Al>
                                     </Inhoud>
@@ -731,14 +733,14 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.13__para_1"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.13__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Het is verboden in een grondwaterbeschermingsgebied meststoffen op of in de bodem te brengen.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.13__para_2"
                                       wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.13__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.13__para_2__list_o_1"
                                               wId="pv26_311__chp_2__subchp_2.1__subsec_2.1.3__art_2.13__para_2__list_o_1"
@@ -793,7 +795,7 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_1"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>In een omgevingsplan dat van toepassing is op het<IntIoRef eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_1__ref_o_1"
                                                     wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_1__ref_o_1"
@@ -802,7 +804,7 @@
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_2"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Een omgevingsplan dat betrekking heeft op het<IntIoRef eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_2__ref_o_1"
                                                     wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.15__para_2__ref_o_1"
@@ -819,7 +821,7 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_1"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_1__list_o_1"
                                               wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_1__list_o_1"
@@ -845,7 +847,7 @@
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_2"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_2__list_o_1"
                                               wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.16__para_2__list_o_1"
@@ -914,14 +916,14 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.17__para_1"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.17__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Met het oog op een veilig en doelmatig gebruik van de weg, steekt beplanting langs de weg in beheer bij de provincie niet lager dan 4,50 meter boven de verkeersbanen en fietspaden uit en niet lager dan 3 meter boven voetpaden uit.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.17__para_2"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.17__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>In aanvulling op artikel PM geldt het eerste lid ook voor rechthebbenden van beplanting langs de provinciale weg.</Al>
                                     </Inhoud>
@@ -972,35 +974,35 @@
                                  </Kop>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_1"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Het is verboden in het beperkingengebied met betrekking tot de provinciale weg  tijdelijke verwijsborden te plaatsen kort voor en tijdens een evenement zonder dit ten minste twee weken voor het begin ervan te melden.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_2"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De borden zijn niet groter dan 1.00 meter bij 1.00 meter.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_3"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>De borden worden binnen 24 uur na afloop van het evenement verwijderd. </Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_4"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_4">
-                                    <LidNummer>4</LidNummer>
+                                    <LidNummer>4.</LidNummer>
                                     <Inhoud>
                                        <Al>Er worden niet meer dan twee borden bij elkaar op een locatie aangebracht.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_5"
                                       wId="pv26_311__chp_2__subchp_2.2__subsec_2.2.1__art_2.20__para_5">
-                                    <LidNummer>5</LidNummer>
+                                    <LidNummer>5.</LidNummer>
                                     <Inhoud>
                                        <Al>De borden worden geplaatst in de onverharde buitenberm op een afstand van ten minste 2.50 meter uit de kant van de verharding.</Al>
                                     </Inhoud>
@@ -1048,14 +1050,14 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.1__art_3.2__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.1__art_3.2__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Het stiltegebied bestaat uit een stille kern en een bufferzone stiltegebied.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.1__art_3.2__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.1__art_3.2__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De vrijwaringszone stiltegebied is een zone van 1500 meter rondom het stiltegebied. stiltegebied</Al>
                                     </Inhoud>
@@ -1103,7 +1105,7 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>In een omgevingsplan dat betrekking heeft op locaties binnen<IntIoRef eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_1__ref_o_1"
                                                     wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_1__ref_o_1"
@@ -1114,7 +1116,7 @@
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_2__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_2__list_o_1"
@@ -1135,14 +1137,14 @@
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_3"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_3">
-                                    <LidNummer>3</LidNummer>
+                                    <LidNummer>3.</LidNummer>
                                     <Inhoud>
                                        <Al>Voor de toepassing van het tweede lid, onder a, worden geluidsbronnen van activiteiten die worden verricht op dezelfde locatie en die elkaar functioneel ondersteunen of die ieder een hoofdactiviteit ondersteunen als één geluidsbron aangemerkt.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_4"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.4__para_4">
-                                    <LidNummer>4</LidNummer>
+                                    <LidNummer>4.</LidNummer>
                                     <Inhoud>
                                        <Al>Het eerste lid geldt niet voor activiteiten die zijn uitgezonderd van de aanwijzing van vergunningplichtige gevallen in paragraaf 3.4.3.</Al>
                                     </Inhoud>
@@ -1157,7 +1159,7 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.5__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.5__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>In een omgevingsplan dat betrekking heeft op locaties binnen<IntIoRef eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.5__para_1__ref_o_1"
                                                     wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.5__para_1__ref_o_1"
@@ -1172,7 +1174,7 @@
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.2__art_3.5__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.2__art_3.5__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Het eerste lid geldt niet voor activiteiten die zijn uitgezonderd van de aanwijzing van vergunningplichtige gevallen in paragraaf 3.4.3.</Al>
                                     </Inhoud>
@@ -1220,14 +1222,14 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.7__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.7__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Deze paragraaf is van toepassing op milieubelastende activiteiten waardoor de ervaring van de natuurlijke geluiden in een stiltegebied kan worden verstoord.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.7__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.7__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.7__para_2__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.7__para_2__list_o_1"
@@ -1271,7 +1273,7 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_1__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_1__list_o_1"
@@ -1297,7 +1299,7 @@
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_2__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.8__para_2__list_o_1"
@@ -1331,14 +1333,14 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.9__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.9__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Het is in een stiltegebied verboden zonder omgevingsvergunning voor een milieubelastende activiteit een muziekinstrument of ander vergelijkbaar geluidsapparaat te gebruiken, tenzij het geluidsniveau op een afstand van 50 meter binnen het stiltegebied minder dan LAeq,1h = 35 dB(A) bedraagt.</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.9__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.9__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>Het verbod geldt niet als het geluidsniveau op een afstand van 50 meter vanaf de activiteit minder dan LAeq,1h = 35 dB(A) bedraagt.</Al>
                                     </Inhoud>
@@ -1353,14 +1355,14 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.10__para_1"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.10__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Het is in een stiltegebied verboden zonder omgevingsvergunning voor een milieubelastende activiteit vuurwerk te gebruiken. </Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.10__para_2"
                                       wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.10__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.1__subsec_3.1.3__art_3.10__para_2__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.1__subsec_3.1.3__art_3.10__para_2__list_o_1"
@@ -1442,7 +1444,7 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.3__subsec_3.3.1__art_3.13__para_1"
                                       wId="pv26_311__chp_3__subchp_3.3__subsec_3.3.1__art_3.13__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.3__subsec_3.3.1__art_3.13__para_1__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.3__subsec_3.3.1__art_3.13__para_1__list_o_1"
@@ -1471,7 +1473,7 @@
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.3__subsec_3.3.1__art_3.13__para_2"
                                       wId="pv26_311__chp_3__subchp_3.3__subsec_3.3.1__art_3.13__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De toelichting op een omgevingsplan bevat een onderbouwing waaruit blijkt dat aan de genoemde voorwaarden is voldaan. Een<IntRef doel="pv9930_42__chp_1__subsec_1.1__art_1.1__list_o_1__item_o_3">beeldkwaliteitsparagraaf</IntRef> maakt onderdeel uit van de onderbouwing.</Al>
                                     </Inhoud>
@@ -1501,7 +1503,7 @@
                                  </Kop>
                                  <Lid eId="chp_3__subchp_3.4__subsec_3.4.1__art_3.14__para_1"
                                       wId="pv26_311__chp_3__subchp_3.4__subsec_3.4.1__art_3.14__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_3__subchp_3.4__subsec_3.4.1__art_3.14__para_1__list_o_1"
                                               wId="pv26_311__chp_3__subchp_3.4__subsec_3.4.1__art_3.14__para_1__list_o_1"
@@ -1536,7 +1538,7 @@
                                  </Lid>
                                  <Lid eId="chp_3__subchp_3.4__subsec_3.4.1__art_3.14__para_2"
                                       wId="pv26_311__chp_3__subchp_3.4__subsec_3.4.1__art_3.14__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>De toelichting op een omgevingsplan bevat een onderbouwing waaruit blijkt op welk gebied deze toepassing betrekking heeft en dat aan de genoemde voorwaarden is voldaan. De onderbouwing bevat ook een beschrijving van de in het plangebied voorkomende omgevingskwaliteit en de wijze waarop met het versterken daarvan is omgegaan. Hierbij wordt aangegeven hoe de<IntRef doel="pv9930_42__chp_1__subsec_1.1__art_1.1__list_o_1__item_o_7">verstedelijking</IntRef> aansluit op de ruimtelijke en landschappelijke structuur. Een<IntRef doel="pv9930_42__chp_1__subsec_1.1__art_1.1__list_o_1__item_o_3">beeldkwaliteitsparagraaf</IntRef> maakt onderdeel uit van de onderbouwing.</Al>
                                     </Inhoud>
@@ -1573,7 +1575,7 @@
                                  </Kop>
                                  <Lid eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_1"
                                       wId="pv26_311__chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>Een omgevingsplan dat betrekking heeft op locaties binnen<IntIoRef eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_1__ref_o_1"
                                                     wId="pv26_311__chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_1__ref_o_1"
@@ -1582,7 +1584,7 @@
                                  </Lid>
                                  <Lid eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_2"
                                       wId="pv26_311__chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Lijst eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_2__list_o_1"
                                               wId="pv26_311__chp_4__subchp_4.1__subsec_4.1.1__art_4.1__para_2__list_o_1"
@@ -1616,14 +1618,14 @@
                                  </Kop>
                                  <Lid eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.2__para_1"
                                       wId="pv26_311__chp_4__subchp_4.1__subsec_4.1.1__art_4.2__para_1">
-                                    <LidNummer>1</LidNummer>
+                                    <LidNummer>1.</LidNummer>
                                     <Inhoud>
                                        <Al>NOG VULLEN</Al>
                                     </Inhoud>
                                  </Lid>
                                  <Lid eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.2__para_2"
                                       wId="pv26_311__chp_4__subchp_4.1__subsec_4.1.1__art_4.2__para_2">
-                                    <LidNummer>2</LidNummer>
+                                    <LidNummer>2.</LidNummer>
                                     <Inhoud>
                                        <Al>NOG VULLEN</Al>
                                     </Inhoud>
@@ -2455,6 +2457,7 @@
                   <Bijlage eId="cmp_o_6" wId="pv26_311__cmp_o_6">
                      <Kop>
                         <Label>Bijlage</Label>
+                        <Nummer>6</Nummer>
                         <Opschrift>Lijst verboden activiteiten in grondwaterbeschermingsgebieden</Opschrift>
                      </Kop>
                      <Inhoud>
@@ -2715,6 +2718,8 @@
                         <Divisie eId="recital_6__div_1__div_o_1"
                                  wId="pv26_311__recital_6__div_1__div_o_1">
                            <Kop>
+                              <Label>Divisie</Label>
+                              <Nummer>1.1</Nummer>
                               <Opschrift>Wettelijke basis verordening</Opschrift>
                            </Kop>
                            <Inhoud>
@@ -2726,6 +2731,8 @@
                         <Divisie eId="recital_6__div_1__div_o_2"
                                  wId="pv26_311__recital_6__div_1__div_o_2">
                            <Kop>
+                              <Label>Divisie</Label>
+                              <Nummer>1.2</Nummer>
                               <Opschrift>Provinciaal belang</Opschrift>
                            </Kop>
                            <Inhoud>
